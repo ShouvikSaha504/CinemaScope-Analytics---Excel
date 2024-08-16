@@ -7,7 +7,7 @@ Hollywood Insights Inc. is a data analytics firm specializing in the film and en
 
 ### **Objective:**
 
-The project aims to perform a thorough analysis of Hollywood Insights Inc.'s comprehensive movie dataset to uncover insights into the dynamics of the movie industry. Students will use advanced Excel techniques to explore various facets of the dataset, including trends in movie genres, financial analysis of movie budgets and earnings, and the impact of directors and stars on movie success. Key tasks involve data cleaning, manipulation, visualization, and the creation of an interactive dashboard that captures the essence of the movie industry's trends and patterns. This project is intended to enhance Hollywood Insights Inc.'s ability to provide strategic guidance to its clients, enabling better decision-making in film production, marketing, and distribution. The analysis will also contribute to understanding the evolving landscape of the movie industry, potentially influencing future trends in filmmaking and audience engagement.
+The project aims to perform a thorough analysis of Hollywood Insights Inc.'s comprehensive movie dataset to uncover insights into the dynamics of the movie industry. We will use advanced Excel techniques to explore various facets of the dataset, including trends in movie genres, financial analysis of movie budgets and earnings, and the impact of directors and stars on movie success. Key tasks involve data cleaning, manipulation, visualization, and the creation of an interactive dashboard that captures the essence of the movie industry's trends and patterns. This project is intended to enhance Hollywood Insights Inc.'s ability to provide strategic guidance to its clients, enabling better decision-making in film production, marketing, and distribution. The analysis will also contribute to understanding the evolving landscape of the movie industry, potentially influencing future trends in filmmaking and audience engagement.
 
 The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
 
@@ -57,3 +57,5 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
 ### **Part 2: Building an Excel Dashboard**
 
 Develop a comprehensive and interactive Excel dashboard that integrates key metrics and insights derived from the "movies.csv" dataset. The dashboard should provide a holistic view of the movie industry trends, focusing on movie performance, genre popularity, director and star impact, and financial analysis of movie earnings.
+![CinemaScope-Analytics Dashboard](https://github.com/user-attachments/assets/3f498b30-72ae-46c1-84f4-928afb12128c)
+
