@@ -54,7 +54,7 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
 23. **Revenue and Budget Ratio Analysis Over Time**: Calculate and analyze the ratio of total yearly gross earnings to the total yearly budgets of all movies released each year. How has this ratio evolved over the years covered in the dataset?(Aggregate data year-wise, calculate the total gross earnings and total budgets for each year, and then compute the ratio. Then conduct a trend analysis to understand how this profitability indicator has changed over time. Creating a line chart to visualize this trend would be essential.)
 24. **Network Analysis of Directors and Stars:** Analyze the network of collaborations between directors and stars. Identify which pairs of directors and stars most frequently work together and the average gross earnings of their movies. (Use advanced data manipulation to create this matrix and then apply functions to calculate frequencies and averages.)
 
-# Methodology
+## Methodology
 
 ## Data Import and Cleaning
 - **Import Data:** Loaded the movie dataset into Excel.
