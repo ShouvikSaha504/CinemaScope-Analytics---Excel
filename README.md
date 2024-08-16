@@ -118,16 +118,6 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
 - **Most Successful Genre:** Identified 'Animation' as the most successful genre based on gross earnings.
 - **Most Popular Genre:** Determined 'Comedy' as the most popular genre based on the number of movies.
 
-## Advanced Analysis
-- **Top Production Houses:**
-  - **Analysis:** Evaluated production houses based on the number of movies produced and their success rates.
-  
-- **Genre Analysis:**
-  - **Radar and Bar Charts:** Used radar and bar charts to showcase the distribution and popularity of different movie genres.
-
-- **Financial Forecasting:**
-  - **Predictive Modeling:** Applied predictive modeling techniques to forecast future gross earnings based on historical data.
-
 
 ### Conclusion
 
