@@ -9,6 +9,9 @@ Hollywood Insights Inc. is a data analytics firm specializing in the film and en
 
 The project aims to perform a thorough analysis of Hollywood Insights Inc.'s comprehensive movie dataset to uncover insights into the dynamics of the movie industry. We will use advanced Excel techniques to explore various facets of the dataset, including trends in movie genres, financial analysis of movie budgets and earnings, and the impact of directors and stars on movie success. Key tasks involve data cleaning, manipulation, visualization, and the creation of an interactive dashboard that captures the essence of the movie industry's trends and patterns. This project is intended to enhance Hollywood Insights Inc.'s ability to provide strategic guidance to its clients, enabling better decision-making in film production, marketing, and distribution. The analysis will also contribute to understanding the evolving landscape of the movie industry, potentially influencing future trends in filmmaking and audience engagement.
 
+**Dataset Description:**
+**Dataset link:** https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/4b3bc40f5d7e163c843d6e95ca47b8b9d3f01bbf/movies.csv 
+
 The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
 
 1. **name**: Movie name (String)
@@ -28,6 +31,8 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
 15. **runtime**: Runtime in minutes (Float)
 
 ### **Part 1: Excel Data Analysis: Manipulation, Formulas and Functions**
+
+**Part I link:** https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/b26e4dcbe0d5a66132dfd52ab6761c790840a0b8/CinemaScope-Analytics-Shouvik%20Saha%20-%20Part%20I.xlsx
 
 1. **Missing Data Handling:** Identify and address missing data in the movies dataset. Are there any patterns in the missing data that can be noted?
 2. **Data Sorting and Filtering:** Sort the movies by year of release and by gross earnings. Then, filter the dataset to show only movies with an IMDb score greater than 8.0.
@@ -123,9 +128,7 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
 
 The dashboards and analyses provide a comprehensive view of the movie industry, blending financial metrics and creative insights. From identifying key trends in decade-wise movie performance to evaluating genre popularity and production house success, the data-driven approach offers valuable perspectives for producers, investors, and creators. By visualizing financial correlations, genre distributions, and forecasting future trends, this project equips stakeholders with actionable insights to make informed decisions and strategize effectively within the dynamic world of filmmaking.
 
-
-
-
+**Dashboard Link:** https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/b26e4dcbe0d5a66132dfd52ab6761c790840a0b8/CinemaScope-Analytics-Part%20II%20-%20Shouvik%20Saha.xlsx
 
 
 ### Dashboard Snap
