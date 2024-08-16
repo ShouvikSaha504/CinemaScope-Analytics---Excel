@@ -123,14 +123,16 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
 - **Most Successful Genre:** Identified 'Animation' as the most successful genre based on gross earnings.
 - **Most Popular Genre:** Determined 'Comedy' as the most popular genre based on the number of movies.
 
-
-### Conclusion
-
-The dashboards and analyses provide a comprehensive view of the movie industry, blending financial metrics and creative insights. From identifying key trends in decade-wise movie performance to evaluating genre popularity and production house success, the data-driven approach offers valuable perspectives for producers, investors, and creators. By visualizing financial correlations, genre distributions, and forecasting future trends, this project equips stakeholders with actionable insights to make informed decisions and strategize effectively within the dynamic world of filmmaking.
-
 **Dashboard Link:** https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/b26e4dcbe0d5a66132dfd52ab6761c790840a0b8/CinemaScope-Analytics-Part%20II%20-%20Shouvik%20Saha.xlsx
 
 
 ### Dashboard Snap
 ![CinemaScope-Analytics Dashboard](https://github.com/user-attachments/assets/3f498b30-72ae-46c1-84f4-928afb12128c)
+
+
+
+### Conclusion
+
+The dashboards and analyses provide a comprehensive view of the movie industry, blending financial metrics and creative insights. From identifying key trends in decade-wise movie performance to evaluating genre popularity and production house success, the data-driven approach offers valuable perspectives for producers, investors, and creators. By visualizing financial correlations, genre distributions, and forecasting future trends, this project equips stakeholders with actionable insights to make informed decisions and strategize effectively within the dynamic world of filmmaking.
+
 
