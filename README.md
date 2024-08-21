@@ -1,4 +1,4 @@
-# CinemaScope-Analytics-Excel
+# IMDB CinemaScope-Analytics-Excel
 Unveiling the Dynamics of Movie Success
 
 ### **Background:**
