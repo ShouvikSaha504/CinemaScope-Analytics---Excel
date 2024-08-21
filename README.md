@@ -109,7 +109,7 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
 ![CinemaScope-Analytics Dashboard](https://github.com/user-attachments/assets/3f498b30-72ae-46c1-84f4-928afb12128c)
 
 ### Actionables: 
-Leverage high-grossing movies like Avengers: Endgame and Avatar by using them as case studies in your marketing to highlight their success and attract attention. Explore partnerships with studios or distributors for co-branded promotions or exclusive content. Focus on creating and promoting R-rated content to cater to this dominant audience segment and tailor the marketing campaigns to their preferences.
+Use successful movies like Avengers: Endgame and Avatar in your marketing to show their success and attract attention. Partner with studios or distributors for joint promotions or exclusive content. Focus on creating and promoting R-rated content to appeal to that audience and adjust your marketing to match their interests.
 
 ### Conclusion
 
