@@ -84,16 +84,16 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
   - **Line Charts:** Analyzed decade-wise trends to understand movie distribution and performance over time.
 
 - **Movie Analysis:**
-  - **Budget vs. Gross Earnings:** Utilized a stacked bar chart to compare the budget and gross earnings of the top 5 movies.
+  - **Budget vs. Gross Earnings:** Utilized a stacked bar chart to compare the budget and gross earnings of the top 5 movies. 'Avengers: Endgame' and 'Avatar' are the highest-grossing movies.
 
 - **Distribution of Movies by Ratings:**
-  - **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends.
+  - **Pie Chart:** Illustrated the distribution of movies across different ratings to highlight rating trends. R-rated movies account for around 49%, followed by PG-13 rated movies.
 
 - **Number of Movies by Genre:**
-  - **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres.
+  - **Bar Chart:** Displayed the count of movies across various genres, identifying the most and least popular genres. Action and comedy are the most popular genres, while musical and music are the least popular genres.
 
 - **Slicers:**
-  - **Movie Type:** Implemented slicers to categorize movies as 'Bad', 'Mediocre', or 'Good' based on their performance metrics.
+  - **Movie Type:** Implemented slicers to categorize movies as 'Bad', 'Mediocre', or 'Good' based on their performance metrics. 
   - **Genre-wise Analysis:** Enabled interactive genre-wise analysis using slicers.
   - **Rating-wise Analysis:** Provided rating-wise insights using slicers.
 
@@ -108,7 +108,8 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
 ### Dashboard Snap
 ![CinemaScope-Analytics Dashboard](https://github.com/user-attachments/assets/3f498b30-72ae-46c1-84f4-928afb12128c)
 
-
+### Actionables: 
+Leverage high-grossing movies like Avengers: Endgame and Avatar by using them as case studies in your marketing to highlight their success and attract attention. Explore partnerships with studios or distributors for co-branded promotions or exclusive content. Focus on creating and promoting R-rated content to cater to this dominant audience segment and tailor the marketing campaigns to their preferences.
 
 ### Conclusion
 
