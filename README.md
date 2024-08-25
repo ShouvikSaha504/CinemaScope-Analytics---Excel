@@ -11,7 +11,7 @@ The project aims to perform a thorough analysis of Hollywood Insights Inc.'s com
 
 **Dataset Description:**
 
-**Dataset link:** https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/4b3bc40f5d7e163c843d6e95ca47b8b9d3f01bbf/movies.csv 
+[**Dataset link:**](https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/4b3bc40f5d7e163c843d6e95ca47b8b9d3f01bbf/movies.csv)
 
 The "movies.csv" file contains data about various movies. Here's an overview of its structure and the type of data it includes:
 
@@ -33,7 +33,7 @@ The "movies.csv" file contains data about various movies. Here's an overview of 
 
 ### **Part 1: Excel Data Analysis: Manipulation, Formulas and Functions**
 
-**Part I link:** https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/b26e4dcbe0d5a66132dfd52ab6761c790840a0b8/CinemaScope-Analytics-Shouvik%20Saha%20-%20Part%20I.xlsx
+[**Part I link:**](https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/b26e4dcbe0d5a66132dfd52ab6761c790840a0b8/CinemaScope-Analytics-Shouvik%20Saha%20-%20Part%20I.xlsx)
 
 **Part I Overview:** This project involves a comprehensive analysis of a movies dataset, focusing on handling missing data, sorting and filtering by release year and IMDb score, and analyzing genre distribution. It includes comparing budget and gross earnings with scatter plots, categorizing IMDb scores, and visualizing country-wise production. Additional tasks involve identifying top directors by average earnings, calculating average runtimes, and examining trends in movie ratings and profitability. The analysis extends to highlighting high-budget movies, exploring star impact, segmenting movies by IMDb score, and tracking budget and earnings trends over time. The project also includes predicting future earnings, analyzing revenue-to-budget ratios, and exploring the network of director-star collaborations.
 
@@ -102,7 +102,7 @@ Develop a comprehensive and interactive Excel dashboard that integrates key metr
 - **Most Successful Genre:** Identified 'Animation' as the most successful genre based on gross earnings.
 - **Most Popular Genre:** Determined 'Comedy' as the most popular genre based on the number of movies.
 
-**Dashboard Link:** https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/b26e4dcbe0d5a66132dfd52ab6761c790840a0b8/CinemaScope-Analytics-Part%20II%20-%20Shouvik%20Saha.xlsx
+[**Dashboard Link:**](https://github.com/ShouvikSaha504/CinemaScope-Analytics---Excel/blob/b26e4dcbe0d5a66132dfd52ab6761c790840a0b8/CinemaScope-Analytics-Part%20II%20-%20Shouvik%20Saha.xlsx)
 
 
 ### Dashboard Snap
